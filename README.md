@@ -1,9 +1,9 @@
 ### Hi, I'm Adrian 👋
-- 🎓 Undergraduate Computer Science major @ University of Arizona
-- 💻 Student Software Developer @ [Cyverse](https://github.com/cyverse)
+- 🎓 I'm an undergraduate Computer Science major @ the University of Arizona
+- 💻 Current Student Software Developer @ [Cyverse](https://github.com/cyverse)
 - 🔖 Former SWE Intern @ Amazon & Garmin
 - 🏆 2nd-place Winner at HackArizona 6.0
-- 🔭 Currently learning Golang & Kubernetes | Microservices | Frontend Frameworks
+- 🔭 I'm currently learning Golang & Kubernetes | Microservices | Frontend Frameworks
 
 ### Let's Connect!
 [<img align="left" alt="BaoAdrian | Portfolio" width="20px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
@@ -41,8 +41,7 @@
 <br />
 <br />
 
-![Adrian's github stats](https://github-readme-stats.vercel.app/api?username=BaoAdrian&show_icons=true&hide_border=false)
-
+![Adrian's github stats](https://github-readme-stats.vercel.app/api?username=BaoAdrian&show_icons=true&hide_border=false&theme=tokyonight)
 
 [website]: https://www.adrianbao.com
 [linkedin]: https://linkedin.com/in/baoadrian
