@@ -41,7 +41,7 @@
 <br />
 <br />
 
-![Adrian's github stats](https://github-readme-stats.vercel.app/api?username=BaoAdrian&show_icons=true&hide_border=false&theme=tokyonight)
+![Adrian's github stats](https://github-readme-stats.vercel.app/api?username=BaoAdrian&show_icons=true&hide_border=false)
 
 [website]: https://www.adrianbao.com
 [linkedin]: https://linkedin.com/in/baoadrian
