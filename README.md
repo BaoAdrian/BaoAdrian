@@ -5,8 +5,10 @@
 - 🏆 2nd-place Winner at HackArizona 6.0
 - 🔭 Currently learning Golang & Kubernetes | Microservices | Frontend Frameworks
 
-[![](https://img.shields.io/badge/-@BaoAdrian-%23181717?style=flat-square&logo=github)](https://github.com/BaoAdrian)
-[![](https://img.shields.io/badge/-@BaoAdrian-orange?style=flat-square&logo=gitlab)](https://gitlab.com/BaoAdrian)
+### Let's Connect!
+[![](https://img.shields.io/badge/-@BaoAdrian-%23181717?style=social&logo=github)](https://github.com/BaoAdrian)
+[![](https://img.shields.io/badge/-@BaoAdrian-orange?style=social&logo=gitlab)](https://gitlab.com/BaoAdrian)
+[![](https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin)](https://linkedin.com/in/baoadrian)
 
 ### Languages
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png"></code>
