@@ -6,9 +6,13 @@
 - 🔭 Currently learning Golang & Kubernetes | Microservices | Frontend Frameworks
 
 ### Let's Connect!
-[![](https://img.shields.io/badge/-@BaoAdrian-%23181717?style=social&logo=github)](https://github.com/BaoAdrian)
-[![](https://img.shields.io/badge/-@BaoAdrian-orange?style=social&logo=gitlab)](https://gitlab.com/BaoAdrian)
-[![](https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin)](https://linkedin.com/in/baoadrian)
+[<img align="left" alt="BaoAdrian | Portfolio" width="20px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="BaoAdrian | LinkedIn" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[![](https://img.shields.io/badge/-@BaoAdrian-%23181717?style=flat&logo=github)](https://github.com/BaoAdrian)
+[![](https://img.shields.io/badge/-@BaoAdrian-orange?style=flat&logo=gitlab)](https://gitlab.com/BaoAdrian)
+
+
+
 
 ### Languages
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png"></code>
@@ -38,3 +42,7 @@
 <br />
 
 ![Adrian's github stats](https://github-readme-stats.vercel.app/api?username=BaoAdrian&show_icons=true&hide_border=false)
+
+
+[website]: https://www.adrianbao.com
+[linkedin]: https://linkedin.com/in/baoadrian
