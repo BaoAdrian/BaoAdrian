@@ -1,10 +1,7 @@
-### Hi there 👋
-
-Here are some ideas to get you started:
-
+### Hi, I'm Adrian 👋
+- 🎓 Undergraduate Computer Science major @ University of Arizona
 - 💻 Software Developer
-- 🔭 I’m currently working on completing my BS in Computer Science from the University of Arizona
-- 🌱 I’m currently learning Cloud/Edge technologies and Frontend frameworks
+- 🔭 Currently learning Golang & Kubernetes | Microservices | Frontend Frameworks
 
 ### Languages and Tools:
 
