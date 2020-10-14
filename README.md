@@ -43,7 +43,7 @@
 
 ![Adrian's github stats](https://github-readme-stats.vercel.app/api?username=BaoAdrian&show_icons=true&hide_border=false)
 
-![Top Languages](https://benjamins-readme-stats.vercel.app/api/top-langs/?username=BaoAdrian&layout=compact&num_langs=10&hide=verilog,tsql,css,html)
+![Top Languages](https://benjamins-readme-stats.vercel.app/api/top-langs/?username=BaoAdrian&layout=compact&num_langs=6&hide=verilog,tsql,css,html)
 
 [website]: https://www.adrianbao.com
 [linkedin]: https://linkedin.com/in/baoadrian
