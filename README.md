@@ -1,7 +1,7 @@
 ### Hi, I'm Adrian 👋
-- 🎓 I'm an undergraduate Computer Science major @ the University of Arizona
-- 💻 Current Student Software Developer @ [Cyverse](https://github.com/cyverse)
-- 🔖 Former SWE Intern @ Amazon & Garmin
+- 🎓 Recent Graduate of Computer Science from the University of Arizona
+- 💻 Current Software Engineer @ Amazon
+- 🔖 Former SWE Intern @ Amazon, Garmin, & CyVerse
 - 🏆 2nd-place Winner at HackArizona 6.0
 - 🔭 I'm currently learning Golang & Kubernetes | Microservices | Frontend Frameworks
 
