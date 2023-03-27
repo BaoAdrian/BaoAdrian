@@ -1,6 +1,6 @@
 ### Hi, I'm Adrian 👋
-- 🎓 Recent Graduate of Computer Science from the University of Arizona
-- 💻 Current Software Engineer @ Amazon
+- 💻 Current Lead Software Engineer @ State Farm
+- 💻 Former SDE II @ Amazon
 - 🔖 Former SWE Intern @ Amazon, Garmin, & CyVerse
 - 🏆 2nd-place Winner at HackArizona 6.0
 - 🔭 I'm currently learning Golang & Kubernetes | Microservices | Frontend Frameworks
